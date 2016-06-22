@@ -1,0 +1,25 @@
+{
+  "name": "vtiger-api-js-client",
+  "version": "0.0.1-dev",
+  "description": "vTiger's API objects handler",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "grunt-cli": "^1.2.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linagora/vtiger-api-js-client.git"
+  },
+  "author": "Linagora Folks",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/linagora/vtiger-api-js-client/issues"
+  },
+  "homepage": "https://github.com/linagora/vtiger-api-js-client"
+}
