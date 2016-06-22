@@ -1,0 +1,18 @@
+{
+  "name": "vtiger-api-js-client",
+  "version": "0.0.1-dev",
+  "homepage": "https://github.com/linagora/vtiger-api-js-client",
+  "authors": [
+    "Linagora Folks"
+  ],
+  "description": "vTiger's API objects handler",
+  "main": "",
+  "license": "AGPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
