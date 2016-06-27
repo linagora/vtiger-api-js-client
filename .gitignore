@@ -1,0 +1,8 @@
+dist
+.tmp
+node_modules
+tmp/
+*.log
+.idea
+doc/api
+coverage
