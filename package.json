@@ -4,7 +4,11 @@
   "description": "vTiger's API objects handler",
   "main": "index.js",
   "dependencies": {
-    "bower": "^1.7.9"
+    "bower": "^1.7.9",
+    "crypto-js": "^3.1.6",
+    "q": "^1.4.1",
+    "request": "^2.72.0",
+    "request-promise": "^3.0.0"
   },
   "devDependencies": {
     "grunt-cli": "^1.2.0"
