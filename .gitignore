@@ -7,7 +7,6 @@ tmp/
 doc/api
 coverage
 playground.js
-lib/vTigerObjects/Assets.js
-lib/vTigerObjects/elements_doc.mdown
-lib/vTigerObjects/elements_list.txt
-lib/vTigerObjects/user.js
+lib/models/objects_doc.mdown
+lib/models/objects_list.txt
+lib/models/user.js
