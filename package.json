@@ -37,7 +37,7 @@
     "grunt-mocha-istanbul": "^3.0.1",
     "grunt-release": "0.13.0",
     "istanbul": "^0.4.4",
-    "jsdoc": "jsdoc3/jsdoc#a6927b2fbd51acf616d153339f78e6f5703688a0",
+    "jsdoc": "^3.4.0",
     "karma": "0.12.37",
     "karma-chrome-launcher": "^1.0.1",
     "karma-coverage": "^0.5.3",
